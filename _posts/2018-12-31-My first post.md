@@ -3,8 +3,7 @@ layout: post
 title: My very first post
 ---
 
-learning to use GitHub was not easy:)
-历时三天终于摸到一点门道了（挠头）。<br>会选赫拉克勒斯的选择做封面是因为这算是过去一年的主题。
+learning to use GitHub was not easy:)<br>历时三天终于摸到一点门道了（挠头）。<br>会选赫拉克勒斯的选择做封面是因为这算是过去一年的主题。
 
 至于 Markdown 的语法今后慢慢学好了。
 
